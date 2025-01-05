@@ -18,7 +18,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(compression());
 app.use(cors({
-    origin: 'https://fiverrindia.tech',
+    origin: 'https://fiverrindi.netlify.app',
     credentials: true
 }));
 
