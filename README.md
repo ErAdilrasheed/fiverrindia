@@ -81,7 +81,7 @@ JWT_KEY = " "
 ```
 
 ## Deployment
-The application is deployed on **Vercel**. 
+The application can deployed on **Vercel** and **Render**. 
 ## Payment Integration
 Stripe has been integrated as the payment gateway, enabling secure transactions between clients and freelancers. This ensures that freelancers are paid promptly for completed work.
 
