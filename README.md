@@ -71,6 +71,15 @@ To run the project locally, follow these steps:
 
 5. Visit `http://localhost:5173` to view the frontend, and ensure the backend is running on `http://localhost:3000`.
 
+## .env
+
+```bash
+MONGO_URL = " "
+STRIPE_SECRET_API = " "
+JWT_KEY = " "
+
+```
+
 ## Deployment
 The application is deployed on **Vercel**. 
 ## Payment Integration
