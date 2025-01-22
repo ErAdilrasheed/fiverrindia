@@ -28,7 +28,7 @@ FiverrIndia is a modern and user-friendly freelancing web application designed t
 The repository is divided into two main folders for the frontend and backend:
 
 - **client**: Contains the React.js frontend code.
-- **api**: Contains the Express.js backend code.
+- **server**: Contains the Express.js backend code.
 
 ## Installation
 To run the project locally, follow these steps:
@@ -53,7 +53,7 @@ To run the project locally, follow these steps:
 
    For the backend (api):
    ```bash
-   cd api
+   cd server
    npm install
    ```
 
@@ -72,9 +72,7 @@ To run the project locally, follow these steps:
 5. Visit `http://localhost:5173` to view the frontend, and ensure the backend is running on `http://localhost:3000`.
 
 ## Deployment
-The application is deployed on **Vercel**. You can view the live version of the app here:  
-[Live Demo - FiverrIndia](https://fiverrindia.vercel.app)
-
+The application is deployed on **Vercel**. 
 ## Payment Integration
 Stripe has been integrated as the payment gateway, enabling secure transactions between clients and freelancers. This ensures that freelancers are paid promptly for completed work.
 
