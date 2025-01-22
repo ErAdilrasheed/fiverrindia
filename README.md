@@ -81,7 +81,4 @@ Stripe has been integrated as the payment gateway, enabling secure transactions 
 ## Contributing
 Contributions are welcome! If you would like to contribute, feel free to fork the repository, make changes, and submit a pull request. Please follow the standard GitHub workflow for submitting issues and pull requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
